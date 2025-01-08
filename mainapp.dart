@@ -11,7 +11,7 @@ class MainScreen extends StatelessWidget {
       ),
       body: const Center(
         child: Text(
-          '메인화면 입니다.수정합니다.1',
+          '매인화면 입니다. testbranch 입니다.',
           style: TextStyle(fontSize: 24),
         ),
       ),
