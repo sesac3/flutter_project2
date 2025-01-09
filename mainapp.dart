@@ -20,7 +20,7 @@ class MainScreen extends StatelessWidget {
             ),
             SizedBox(height: 8),
             Text(
-              'testbranch 입니다.',
+              '코드 업데이트 되었습니다.',
               style: TextStyle(fontSize: 24),
             ),
             SizedBox(height: 16),
